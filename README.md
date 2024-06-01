@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋 My name is Harikrishnan V J and I'm a Cyber Security Analyst & Blockchain Enthusiast from ...</h2>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41F79A&background=2E7DFF00&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harikrishnan+V+J)]
+<h2> Securing the Future: Dedicated to Safeguarding the Digital World | Cyber Security Analyst & Blockchain Enthusiast </h2>
 ###
 
 <div align="center">
