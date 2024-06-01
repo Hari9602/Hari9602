@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41F79A&background=2E7DFF00&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harikrishnan+V+J) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41F79A&background=2E7DFF00&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harikrishnan+V+J) 
 <h2 align="center"> Securing the Future: Dedicated to Safeguarding the Digital World | Cyber Security Analyst & Blockchain Enthusiast </h2>
-###
 
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hari9602&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hari9602&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
