@@ -1,8 +1,33 @@
-![(MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41F79A&background=2E7DFF00&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harikrishnan+V+J)](https://git.io/typing-svg)
-<h3 align="center">Securing the Future: Dedicated to Safeguarding the Digital World | Cyber Security Analyst & Blockchain Enthusiast</h3>
+<h2 align="left">Hi 👋 My name is Harikrishnan V J and I'm a Cyber Security Analyst & Blockchain Enthusiast from ...</h2>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hari9602&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hari9602&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
+###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari9602&label=Profile%20views&color=0e75b6&style=flat" alt="hari9602" /> </p>
 
@@ -16,7 +41,6 @@
 <p align="left">
 <a href="https://twitter.com/hari9602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hari9602" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harikrishnan-v-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikrishnan-v-j" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/harikrishnan-v-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="harikrishnan-v-j" height="30" width="40" /></a>
 <a href="https://instagram.com/krishnan9602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnan9602" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@harikrishnan9602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@harikrishnan9602" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/harikrish25dd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harikrish25dd" height="30" width="40" /></a>
