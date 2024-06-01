@@ -1,6 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41F79A&background=2E7DFF00&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harikrishnan+V+J) 
-<h2 align="center" style="color: #41F79AFF">Securing the Future: Dedicated to Safeguarding the Digital World | Cyber Security Analyst & Blockchain Enthusiast</h2>
-
+<h2 align="center"><span style="color:#41F79AFF">Securing the Future: Dedicated to Safeguarding the Digital World | Cyber Security Analyst & Blockchain Enthusiast</span></h2>
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hari9602&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
