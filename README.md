@@ -2,9 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F6F7F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harikrishnan+V+J)](https://git.io/typing-svg)
 <h3 align="center">Securing the Future: Dedicated to Safeguarding the Digital World | Cyber Security Analyst & Blockchain Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari9602&label=Profile%20views&color=0e75b6&style=flat" alt="hari9602" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hari9602" target="blank"><img src="https://img.shields.io/twitter/follow/hari9602?logo=twitter&style=for-the-badge" alt="hari9602" /></a> </p>
