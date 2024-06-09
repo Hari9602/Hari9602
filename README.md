@@ -1,68 +1,89 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=41F79A&background=2E7DFF00&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Harikrishnan+V+J)](https://git.io/typing-svg)
 
-<h2 align="center"><span style="color:#41F79AFF">Securing the Future: Dedicated to Safeguarding the Digital World | Cyber Security Analyst & Blockchain Enthusiast </span></h2>
+![](https://komarev.com/ghpvc/?username=hari9602&color=0e75b6&style=flat)
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishnan-v-j/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hari9602?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hari9602)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krishnan9602/)
+---
+## I'm a Cyber Security Analyst, Blockchain Enthusiast, and Author
 
-###
+---
+
+- 🔭 I am Currently a Student at [Lovely Professional University](https://www.lpu.in/)
+
+- 🌱 I’m currently Learning Coding😎.
+
+- 🥅 2024 Goals: Explore more research in Blockchain & Solidity, Networking, Pentesting, etc...
+
+- ⚡ Fun fact: I love to research.
+
+---
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hari9602&show_icons=true&theme=radical) | [![Harikrishnan's Streak](https://streak-stats.demolab.com?user=hari9602&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hari9602&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                              |
+
+[![Harikrishnan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hari9602&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/hari9602)
+
+## ⚡ Technologies I use 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hari9602&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hari9602&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  width="65px"/>
+            <br /> C
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"/>
+            <br /> C++
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
+            <br /> HTML5
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+            <br /> CSS
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
+            <br /> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"/>
+            <br /> MySQL
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" height="30" alt="docker logo"/>
+            <br /> Docker
+        </td>
+      </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/debian/debian-original.svg" height="30" alt="debian logo"/>
+            <br /> Debian
+        </td>
+      </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="30" alt="git logo"/>
+            <br /> Git
+        </td>
+      </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="30" alt="linux logo"/>
+            <br /> Linux
+        </td>
+      </td>
+        <td align="center" width="140" height="112.43">
+            <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"/>
+            <br /> Solidity
+        </td>
+    </tr>
+</table>
 </div>
 
-###
 
-<img align="right" height="150" src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"  />
+---
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
-
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hari9602&label=Profile%20views&color=0e75b6&style=flat" alt="hari9602" /> </p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/harikrishnan-v-j/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow me on LinkedIn" />
-  </a>
-  <a href="https://twitter.com/hari9602" target="blank">
-    <img src="https://img.shields.io/twitter/follow/hari9602?logo=twitter&style=for-the-badge" alt="hari9602" />
-  </a>
-  <a href="https://www.instagram.com/krishnan9602/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow me on Instagram" />
-  </a>
-</p>
-
-
-- 💬 Ask me about **Networking , Pentesting**
-
-- 📫 How to reach me **harikrishnan9602@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hari9602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hari9602" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harikrishnan-v-j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikrishnan-v-j" height="30" width="40" /></a>
-<a href="https://instagram.com/krishnan9602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnan9602" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@harikrishnan9602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@harikrishnan9602" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harikrish25dd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harikrish25dd" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari9602&show_icons=true&locale=en&layout=compact" alt="hari9602" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hari9602&show_icons=true&locale=en" alt="hari9602" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari9602&" alt="hari9602" /></p>
+***Thanks for visiting my profile.***
