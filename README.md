@@ -32,7 +32,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hari9602&label=Profile%20views&color=0e75b6&style=flat" alt="hari9602" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hari9602" target="blank"><img src="https://img.shields.io/twitter/follow/hari9602?logo=twitter&style=for-the-badge" alt="hari9602" /></a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/harikrishnan-v-j/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow me on LinkedIn" />
+  </a>
+  <a href="https://twitter.com/hari9602" target="blank">
+    <img src="https://img.shields.io/twitter/follow/hari9602?logo=twitter&style=for-the-badge" alt="hari9602" />
+  </a>
+  <a href="https://www.instagram.com/krishnan9602/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow me on Instagram" />
+  </a>
+</p>
+
 
 - 💬 Ask me about **Networking , Pentesting**
 
