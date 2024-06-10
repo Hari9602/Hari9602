@@ -32,7 +32,7 @@
 <table align="center">
     <tr>
         <td align="center" width="140" height="112.43">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  width="65px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"/>
             <br /> C
         </td>
         <td align="center" width="140" height="112.43">
