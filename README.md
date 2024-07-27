@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact: I love to research.
 
-- 🌐 To know more about me: [Visit](www.harikrishnan-portfolio.in).
+- 🌐 To know more about me: [Visit](https://www.harikrishnan-portfolio.in/).
 
 ---
 
