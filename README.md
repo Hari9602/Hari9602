@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact: I love to research.
 
+- 🌐 To know more about me: [Visit](www.harikrishnan-portfolio.in).
+
 ---
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hari9602&show_icons=true&theme=radical) | [![Harikrishnan's Streak](https://streak-stats.demolab.com?user=hari9602&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
