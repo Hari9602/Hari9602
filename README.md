@@ -6,19 +6,22 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/hari9602?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hari9602)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krishnan9602/)
 ---
-## I'm an Aspiring Cyber Security Analyst, Blockchain Enthusiast, and Author
+## Aspiring Cyber Security Analyst, Blockchain Enthusiast, and Focused Blue Teamer🦹
+
+---
+<img src="https://tryhackme-badges.s3.amazonaws.com/harikrishnan9602.png" alt="Your Image Badge" />
 
 ---
 
 - 🔭 I am Currently a Student at [Lovely Professional University](https://www.lpu.in/)
 
-- 🌱 I’m currently Learning Coding😎.
+- 🌱 I’m a CTF Player😎 and ranked Top 5% @TryHackMe.
 
 - 🥅 2024 Goals: Explore more research in Blockchain & Solidity, Networking, Pentesting, etc...
 
 - ⚡ Fun fact: I love to research.
 
-- 🌐 To know more about me: [Visit](https://www.harikrishnan-portfolio.in/).
+- 🌐 To know more about me: [Checkout my Portfolio](https://www.harikrishnan-portfolio.in/).
 
 ---
 
