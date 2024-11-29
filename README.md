@@ -16,7 +16,7 @@
 
 - 🔭 I am Currently a Student at [Lovely Professional University](https://www.lpu.in/)
 
-- 🌱 I’m a CTF Player😎 and ranked Top 5% @TryHackMe.
+- 🌱 I’m a CTF Player😎 and ranked Top 4% @TryHackMe.
 
 - 🥅 2024 Goals: Explore more research in Blockchain & Solidity, Networking, Pentesting, etc...
 
