@@ -18,7 +18,7 @@
 
 - 🌱 I’m a CTF Player😎 and ranked Top 4% @TryHackMe.
 
-- 🥅 2024 Goals: Explore more research in Blockchain & Solidity, Networking, Pentesting, etc...
+- 🥅 2025 Goals: Explore more research in Networking and Pentesting, etc...
 
 - ⚡ Fun fact: I love to research.
 
