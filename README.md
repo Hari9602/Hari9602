@@ -10,7 +10,8 @@
 
 ---
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/harikrishnan9602.png" alt="Your Image Badge" />
+// TryHackMe badge
+
 
 ---
 
