@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact: I love to research.
 
-- 🌐 To know more about me: [Checkout my Portfolio](https://www.harikrishnan-portfolio.in/).
+- 🌐 To know more about me: [Checkout my Portfolio](https://harikrishnanvj.tech/).
 
 ---
 
