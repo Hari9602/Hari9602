@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/hari9602?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hari9602)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krishnan9602/)
 ---
-## Aspiring Cyber Security Analyst, Blockchain Enthusiast, and Focused Blue Teamer🦹
+## Cybersecurity Enthusiast | Purple Teamer | CTF Player | Threat Hunting | Red & Blue Teaming | Aspiring Cybersecurity Architect 🦹
 
 ---
 
